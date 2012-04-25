@@ -1,0 +1,10 @@
+# hello-clojure
+
+My first clojure app
+
+## Usage
+
+```bash
+$ heroku create
+$ git push heroku master
+```
